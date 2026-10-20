@@ -1,0 +1,8 @@
+eventId: 2
+tenantId: e2etest00001
+slug: e2etest1
+trafficPlan: S
+scaledUp: true
+stockLoad: true
+aggregate: false
+frozen: false
