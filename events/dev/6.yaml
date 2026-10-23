@@ -4,5 +4,5 @@ slug: a3137o6g
 trafficPlan: M
 scaledUp: true
 stockLoad: true
-aggregate: false
-frozen: true
+aggregate: true
+frozen: false
