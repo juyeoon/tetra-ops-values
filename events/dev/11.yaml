@@ -4,5 +4,5 @@ slug: ztxwllz4
 trafficPlan: S
 scaledUp: true
 stockLoad: true
-aggregate: false
-frozen: true
+aggregate: true
+frozen: false
