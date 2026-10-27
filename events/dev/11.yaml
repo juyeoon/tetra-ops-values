@@ -2,7 +2,7 @@ eventId: 11
 tenantId: cft8g9ff6myr
 slug: ztxwllz4
 trafficPlan: S
-scaledUp: false
-stockLoad: false
+scaledUp: true
+stockLoad: true
 aggregate: false
 frozen: false
