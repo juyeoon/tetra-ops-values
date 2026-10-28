@@ -4,5 +4,5 @@ slug: qhm0ho0i
 trafficPlan: S
 scaledUp: true
 stockLoad: true
-aggregate: false
-frozen: true
+aggregate: true
+frozen: false
