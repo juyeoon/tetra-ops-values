@@ -4,5 +4,5 @@ slug: i9sq6wd0
 trafficPlan: S
 scaledUp: true
 stockLoad: true
-aggregate: false
-frozen: true
+aggregate: true
+frozen: false
