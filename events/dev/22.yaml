@@ -1,0 +1,8 @@
+eventId: 22
+tenantId: loadtest1111
+slug: c1x25eah
+trafficPlan: S
+scaledUp: false
+stockLoad: false
+aggregate: false
+frozen: false
