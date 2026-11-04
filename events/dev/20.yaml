@@ -1,8 +1,0 @@
-eventId: 20
-tenantId: loadtest1111
-slug: j78smubp
-trafficPlan: S
-scaledUp: true
-stockLoad: true
-aggregate: true
-frozen: false
