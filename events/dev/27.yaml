@@ -1,8 +1,0 @@
-eventId: 27
-tenantId: loadtest1111
-slug: xgmpfh3p
-trafficPlan: L
-scaledUp: true
-stockLoad: true
-aggregate: true
-frozen: false
