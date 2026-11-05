@@ -2,7 +2,7 @@ eventId: 23
 tenantId: loadtest1111
 slug: hb5s6nmj
 trafficPlan: S
-scaledUp: false
-stockLoad: false
+scaledUp: true
+stockLoad: true
 aggregate: false
 frozen: false
