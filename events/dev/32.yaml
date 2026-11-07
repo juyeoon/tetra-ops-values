@@ -1,8 +1,0 @@
-eventId: 32
-tenantId: loadtest1111
-slug: r14fzhqe
-trafficPlan: L
-scaledUp: true
-stockLoad: true
-aggregate: true
-frozen: false
