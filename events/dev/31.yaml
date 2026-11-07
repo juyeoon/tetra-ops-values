@@ -2,7 +2,7 @@ eventId: 31
 tenantId: loadtest1111
 slug: 2are1590
 trafficPlan: L
-scaledUp: false
-stockLoad: false
+scaledUp: true
+stockLoad: true
 aggregate: false
 frozen: false
