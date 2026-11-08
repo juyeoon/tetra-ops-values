@@ -5,4 +5,4 @@ trafficPlan: M
 scaledUp: true
 stockLoad: true
 aggregate: false
-frozen: false
+frozen: true
