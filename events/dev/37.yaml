@@ -2,7 +2,7 @@ eventId: 37
 tenantId: loadtest1111
 slug: pi1v8lpk
 trafficPlan: L
-scaledUp: false
-stockLoad: false
+scaledUp: true
+stockLoad: true
 aggregate: false
 frozen: false
