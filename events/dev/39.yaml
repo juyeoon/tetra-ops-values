@@ -4,5 +4,5 @@ slug: 5jeu558y
 trafficPlan: S
 scaledUp: true
 stockLoad: true
-aggregate: false
-frozen: true
+aggregate: true
+frozen: false
