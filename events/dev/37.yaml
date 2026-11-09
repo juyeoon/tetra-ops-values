@@ -4,5 +4,5 @@ slug: pi1v8lpk
 trafficPlan: L
 scaledUp: true
 stockLoad: true
-aggregate: false
-frozen: true
+aggregate: true
+frozen: false
